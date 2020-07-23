@@ -2,7 +2,7 @@
 
 Laravel,VueJS, Vue-Router
 
-Minimalist Twitter clone with some core feature of it
+Elegant real time chat application which allows to join chat room among authenticated user
 
 ```
 composer i
