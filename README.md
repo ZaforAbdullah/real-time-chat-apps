@@ -1,6 +1,6 @@
 # Real-Time-Chat-Apps
 
-Laravel,VueJS, Vue-Router
+Laravel, VueJS, Vue-Router
 
 Elegant real time chat application which allows to join chat room among authenticated user
 
